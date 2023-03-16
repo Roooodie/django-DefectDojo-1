@@ -26,7 +26,7 @@ DefectDojo is a DevSecOps platform. DefectDojo streamlines DevSecOps by serving 
 ### What does DefectDojo do?
 
 While automation and efficiency are the ultimate end goals, DefectDojo is
-a bug tracker at its core for vulnerabilities. Taking advantage of DefectDojo's
+a bug tracker at its core for vulnerabilities. Taking advantage of DefectDojo\'s
 Product:Engagement model, enables traceability among multiple projects
 / test cycles, and allows for fine-grained reporting.
 
